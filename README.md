@@ -4,13 +4,16 @@
  
 ![](https://github.com/lh641446825/picture/blob/master/2.jpg?raw=true) </div> <div align="center">图1  机器人抓取</div>
  <div align="center">
+ 
 ![](https://github.com/lh641446825/picture/blob/master/3.jpg?raw=true) </div> <div align="center">图2 VR领域</div>
 
 ## 一、 识别，检测与位姿估计的区别
 
 &#160; &#160; &#160; &#160;识别是判断图像中是否包含某物体的任务，它是二元分类问题。检测是在图像内定位物体的位置，包括物体比例的估计或完整的2D边界框估计。位姿估计是推断出物体在3D世界中的位置，涉及估计3D物体平移和3D物体旋转。
+ <div align="center">
+
 ![](https://github.com/lh641446825/picture/blob/master/4.jpg?raw=true)
-<center>图3 识别、检测与位姿估计</center>
+</div> <div align="center">图3 识别、检测与位姿估计</div>
 
 ## 二、位姿估计的分类
 

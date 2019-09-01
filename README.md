@@ -1,7 +1,7 @@
 # 物体6自由度位姿估计综述（持续更新中）
 &#160; &#160; &#160; &#160;物体位姿估计在机器人领域（如机械臂抓取），AR/VR领域，无人驾驶领域有着广泛的应用，在物体跟踪，建模等相关领域也有着重要的影响。
   
-<div align="center"> ![](https://github.com/lh641446825/picture/blob/master/2.jpg?raw=true)</div>
+ <div align="center"> ![](https://github.com/lh641446825/picture/blob/master/2.jpg?raw=true)</div>
 &#160; &#160; &#160; &#160;&#160; &#160; &#160; &#160;<center>图1  机器人抓取</center>
 
 ![](https://github.com/lh641446825/picture/blob/master/3.jpg?raw=true)

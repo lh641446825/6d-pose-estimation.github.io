@@ -2,11 +2,11 @@
 &#160; &#160; &#160; &#160;物体位姿估计在机器人领域（如机械臂抓取），AR/VR领域，无人驾驶领域有着广泛的应用，在物体跟踪，建模等相关领域也有着重要的影响。
 
 ![](https://github.com/lh641446825/picture/blob/master/2.jpg?raw=true)
-<center> 图1  机器人抓取</center>
+<center>图1  机器人抓取</center>
  
 ![](https://github.com/lh641446825/picture/blob/master/3.jpg?raw=true)
 
-图2 VR领域
+<center>图2 VR领域</center>
 
 ## 一、 识别，检测与位姿估计的区别
 
@@ -14,7 +14,7 @@
 
 ![](https://github.com/lh641446825/picture/blob/master/4.jpg?raw=true)
 
-图3 识别、检测与位姿估计
+<center>图3 识别、检测与位姿估计</center>
 
 ## 二、位姿估计的分类
 
@@ -25,7 +25,7 @@
 
 ![](https://github.com/lh641446825/picture/blob/master/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E6%88%AA%E5%9B%BE20190901205045.png?raw=true)
 
-图4 常规的物体位姿估计
+<center>图4 常规的物体位姿估计</center>
 
 ### 2.从单个RGB图像估计6自由度位姿
 &#160; &#160; &#160; &#160;将RGB-D输入改为RGB输入。但是RGB输入不太可靠，因为它们直接受到光照变化的影响，并且物体边界不太突出，取决于背景。此外，物体与相机的距离很难准确估计，因为投影尺寸随着距离的变化只有微小变化。细化不能利用局部场景几何，例如ICP。因此，准确的位姿估计更难以实现。但是RGB-D相机，例如Kinect在户外不能很好地工作。
@@ -36,7 +36,7 @@
  
 ![](https://github.com/lh641446825/picture/blob/master/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E6%88%AA%E5%9B%BE20190901205329.png?raw=true)
 
-图5 多个物体的位姿估计
+<center>图5 多个物体的位姿估计</center>
 
 ### 4.相机的定位
 
@@ -44,4 +44,4 @@
  
 ![](https://github.com/lh641446825/picture/blob/master/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E6%88%AA%E5%9B%BE20190901205505.png?raw=true)
 
-图6 相机的位姿估计
+<center>图6 相机的位姿估计</center>
